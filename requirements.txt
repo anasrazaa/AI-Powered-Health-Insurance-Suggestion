@@ -1,0 +1,11 @@
+openai
+langchain
+langchain_community
+chromadb
+pandas
+tiktoken
+fastapi
+uvicorn
+pydantic
+python-multipart
+aiofiles
